@@ -11,6 +11,11 @@
 
 - ⚡ Fun fact **I am funny**
 
+
+<a href="https://www.data-card-for-spotify.com/card?user_id=313eqmotlzx45pcubs4klcfaiv2a">
+  <img src="https://www.data-card-for-spotify.com/api/card?user_id=313eqmotlzx45pcubs4klcfaiv2a" alt="Data Card for Spotify">
+</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mohd_sultan2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohd_sultan2004" height="30" width="40" /></a>
