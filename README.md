@@ -27,7 +27,7 @@
 ## 🔥 Streak Stats
 
 <p align="center" >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=&theme=black-ice" alt="mystats"  />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdsultan18&theme=black-ice" alt="mystats"  />
 </p>
 <!-- <p align="center">
  <a target="_blank" href="https://app.daily.dev/mohdsultan18"><img src="https://api.daily.dev/devcards/3d80dd5c8b2346c785af9114fdcbf8b7.png?r=8hz" width="400" alt="Hemant's Dev Card"/></a>
