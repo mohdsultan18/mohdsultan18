@@ -1,22 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <div>
 <img align="center" src="https://i.imgur.com/4ASafy0.png">
 </div>
@@ -46,10 +27,10 @@
 ## 🔥 Streak Stats
 
 <p align="center" >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hemantwasthere&theme=black-ice" alt="mystats"  />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=&theme=black-ice" alt="mystats"  />
 </p>
 <!-- <p align="center">
- <a target="_blank" href="https://app.daily.dev/hemantwasthere"><img src="https://api.daily.dev/devcards/3d80dd5c8b2346c785af9114fdcbf8b7.png?r=8hz" width="400" alt="Hemant's Dev Card"/></a>
+ <a target="_blank" href="https://app.daily.dev/mohdsultan18"><img src="https://api.daily.dev/devcards/3d80dd5c8b2346c785af9114fdcbf8b7.png?r=8hz" width="400" alt="Hemant's Dev Card"/></a>
  </p> -->
 
 <br>
@@ -57,9 +38,9 @@
 ## 📬 Get in touch
 
 <p align="center">
-<a href="https://twitter.com/hemantwasthere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hemantwasthere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://instagram.com/hemantwasthere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a href="https://twitter.com/mohdsultan18_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohdsultan18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://instagram.com/sultanroxx48" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 </p>
 
 <br>
@@ -72,12 +53,12 @@
 
 ## &#x1f4c8; My GitHub Stats
 <p  align="center"> 
-<a href="https://github.com/hemantwasthere">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hemantwasthere&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt=""/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hemantwasthere&theme=algolia&hide=c%2B%2B&layout=compact"/>
+<a href="https://github.com/mohdsultan18">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mohdsultan18&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt=""/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mohdsultan18&theme=algolia&hide=c%2B%2B&layout=compact"/>
 </a>
 </p>
-<!-- <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=hemantwasthere&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=false" /> -->
+<!-- <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=mohdsultan18&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=false" /> -->
 
 ## 🧋 Support
 <p><a href="https://www.buymeacoffee.com/xebec"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee" /></a>
