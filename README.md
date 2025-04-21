@@ -18,8 +18,8 @@
 
 ## 📖  What I am currently learning / improving on
 <p align="center">
-<img src="https://img.shields.io/badge/python-F54D01?logo=python&logoColor=564438" alt="python logo" title="Python" height="25" />
-<img src="https://img.shields.io/badge/GoLang-282C34?logo=GoLang&logoColor=7870e5" alt="GoLang logo" title="GoLang" height="25" />
+<!-- <img src="https://img.shields.io/badge/python-F54D01?logo=python&logoColor=564438" alt="python logo" title="Python" height="25" /> -->
+<!-- <img src="https://img.shields.io/badge/GoLang-282C34?logo=GoLang&logoColor=7870e5" alt="GoLang logo" title="GoLang" height="25" /> -->
  </p>
  
 <br/>
